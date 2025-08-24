@@ -1,0 +1,5 @@
+{
+  "name": "AI Video Quiz Generator",
+  "description": "An application to automatically generate video quizzes in YouTube Shorts format (9:16) using user-provided questions and AI-powered enhancements.",
+  "requestFramePermissions": []
+}
